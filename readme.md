@@ -2,19 +2,17 @@
 
 # JavaScript30
 
-My solutions for Wes Bos' [JavaScript 30 Day Challenge](https://JavaScript30.com).
-
-Text-based guides (unofficial) for the challenges can be found [here](https://github.com/nitishdayal/JavaScript30).
+My solutions for Wes Bos' [JavaScript 30 Day Challenge](https://github.com/wesbos/JavaScript30).
 
 ## Exercises
 
 1. [x] [JavaScript Drum Kit](./exercises/01\ -\ JavaScript\ Drum\ Kit/)
 2. [x] [JS + CSS Clock](./exercises/02\ -\ JS\ +\ CSS\ Clock/)
-3. [ ] [CSS Variables](./exercises/03\ -\ CSS\ Variables/)
-4. [ ] [Array Cardio, Day 1](./exercises/04\ -\ Array\ Cardio\ Day\ 1/)
+3. [x] [CSS Variables](./exercises/03\ -\ CSS\ Variables/)
+4. [x] [Array Cardio, Day 1](./exercises/04\ -\ Array\ Cardio\ Day\ 1/)
 5. [ ] [Flex Panel Gallery](./exercises/05\ -\ Flex\ Panel\ Gallery/)
 6. [ ] [Type Ahead](./exercises/06\ -\ Type\ Ahead/)
-7. [ ] [Array Cardio, Day 2](./exercises/07\ -\ Array\ Cardio\ Day\ 2/)
+7. [x] [Array Cardio, Day 2](./exercises/07\ -\ Array\ Cardio\ Day\ 2/)
 8. [ ] [Fun with HTML5 Canvas](./exercises/08\ -\ Fun\ with\ HTML5\ Canvas/)
 9. [ ] [Dev Tools Domination](./exercises/09\ -\ Dev\ Tools\ Domination/)
 10. [ ] [Hold Shift and Check Checkboxes](./exercises/10\ -\ Hold\ Shift\ and\ Check\ Checkboxes/)
