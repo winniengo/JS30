@@ -11,7 +11,7 @@ My solutions for Wes Bos' [JavaScript 30 Day Challenge](https://github.com/wesbo
 3. [x] [CSS Variables](./exercises/03\ -\ CSS\ Variables/)
 4. [x] [Array Cardio, Day 1](./exercises/04\ -\ Array\ Cardio\ Day\ 1/)
 5. [ ] [Flex Panel Gallery](./exercises/05\ -\ Flex\ Panel\ Gallery/)
-6. [ ] [Type Ahead](./exercises/06\ -\ Type\ Ahead/)
+6. [x] [Type Ahead](./exercises/06\ -\ Type\ Ahead/)
 7. [x] [Array Cardio, Day 2](./exercises/07\ -\ Array\ Cardio\ Day\ 2/)
 8. [ ] [Fun with HTML5 Canvas](./exercises/08\ -\ Fun\ with\ HTML5\ Canvas/)
 9. [ ] [Dev Tools Domination](./exercises/09\ -\ Dev\ Tools\ Domination/)
